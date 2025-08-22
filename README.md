@@ -2,7 +2,7 @@
   <tr>
     <td>
       <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Golang.md">
-        <img src="images/Golang.jpeg" width="500" />
+        <img src="images/Golang.jpeg" width="1" />
       </a>
     </td>
     <td>
