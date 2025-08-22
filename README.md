@@ -7,7 +7,7 @@
     </td>
     <td>
       <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/SpringCloud.md">
-        <img src="images/SprdingCloud.png" width="300" />
+        <img src="images/SpringCloud.png" width="300" />
       </a>
     </td>
     <td>
