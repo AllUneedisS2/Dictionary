@@ -2,22 +2,22 @@
   <tr>
     <td>
       <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Golang.md">
-        <img src="images/Golang.jpeg" width="140" />
+        <img src="images/Golang.jpeg" width="250" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/SpringCloud.md">
-        <img src="images/SpringCloud.png" width="140" />
+        <img src="images/SpringCloud.png" width="250" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Java.md">
-        <img src="images/Java.png" width="140" />
+        <img src="images/Java.png" width="250" />
       </a>
     </td>
     <td>
       <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/SpringAOP.md">
-        <img src="images/SpringAOP.png" width="140" />
+        <img src="images/SpringAOP.png" width="250" />
       </a>
     </td>
     <td>
