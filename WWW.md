@@ -1,0 +1,1 @@
+[[WEB] 🌐 웹 서비스 구조 (Web서버 / 웹컨테이너 / WAS) 정리](https://inpa.tistory.com/entry/WEB-%F0%9F%8C%90-%EC%9B%B9-%EC%84%9C%EB%B9%84%EC%8A%A4-%EA%B5%AC%EC%A1%B0-%EC%A0%95%EB%A6%AC#static_vs_dynamic_%ED%8E%98%EC%9D%B4%EC%A7%80)
