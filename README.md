@@ -21,7 +21,9 @@
       </a>
     </td>
     <td>
-      <!-- 추가 이미지가 있으면 여기에 -->
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Azure.md">
+        <img src="images/Azure.png" width="300" />
+      </a>
     </td>
   </tr>
   <!-- 이미지가 더 있다면 아래처럼 새 행을 추가 -->
