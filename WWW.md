@@ -7,3 +7,5 @@
 [3. DMZ, NAT & PAT](https://choimungu.tistory.com/175)
 
 [Network - Proxy(프록시)와 Gateway(게이트웨이)란? 이 둘의 차이점은?](https://coding-start.tistory.com/342)
+
+[Round-Robin(RR)이란? , CPU-Scheduling들](https://jwprogramming.tistory.com/17)
