@@ -9,3 +9,5 @@
 [Network - Proxy(프록시)와 Gateway(게이트웨이)란? 이 둘의 차이점은?](https://coding-start.tistory.com/342)
 
 [Round-Robin(RR)이란? , CPU-Scheduling들](https://jwprogramming.tistory.com/17)
+
+[154. [Security] SSL과 인증서 구조 이해하기 : CA (Certificate Authority) 를 중심으로](https://m.blog.naver.com/alice_k106/221468341565)
