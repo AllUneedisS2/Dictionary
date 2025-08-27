@@ -5,3 +5,5 @@
 [Spring Cloud DataFlow 사용해 보기](https://luvstudy.tistory.com/255)
 
 [Spring Cloud Stream 살펴보기](https://tech.kakaopay.com/post/spring-cloud-stream/#spring-cloud-stream-%EC%82%B4%ED%8E%B4%EB%B3%B4%EA%B8%B0)
+
+[Spring Cloud Netflix로 알아보는 Microservices Architecture: MSA와 넷플릭스](https://s-core.co.kr/insight/view/spring-cloud-netflix%EB%A1%9C-%EC%95%8C%EC%95%84%EB%B3%B4%EB%8A%94-microservices-architecture-msa%EC%99%80-%EB%84%B7%ED%94%8C%EB%A6%AD%EC%8A%A4/)
