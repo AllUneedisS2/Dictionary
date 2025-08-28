@@ -16,8 +16,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/SpringAOP.md">
-        <img src="images/SpringAOP.png" width="300" />
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/">
+        <img src="images/" width="300" />
       </a>
     </td>
     <td>
