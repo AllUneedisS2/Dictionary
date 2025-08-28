@@ -11,3 +11,5 @@
 [Round-Robin(RR)이란? , CPU-Scheduling들](https://jwprogramming.tistory.com/17)
 
 [154. [Security] SSL과 인증서 구조 이해하기 : CA (Certificate Authority) 를 중심으로](https://m.blog.naver.com/alice_k106/221468341565)
+
+[AJP(Apache JServ Protocol) 에 대해 알아보겠습니다.](https://feccle.tistory.com/391)
