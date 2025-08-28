@@ -32,7 +32,11 @@
         <img src="images/WWW.jpeg" width="300" />
       </a>
     </td>
-    <td>...</td>
+    <td>
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/SpringSecurity.md">
+        <img src="images/SpringSecurity.png" width="300" />
+      </a>
+    </td>
     <td>...</td>
     <td>...</td>
     <td>...</td>
