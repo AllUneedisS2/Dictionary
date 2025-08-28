@@ -13,3 +13,5 @@
 [154. [Security] SSL과 인증서 구조 이해하기 : CA (Certificate Authority) 를 중심으로](https://m.blog.naver.com/alice_k106/221468341565)
 
 [AJP(Apache JServ Protocol) 에 대해 알아보겠습니다.](https://feccle.tistory.com/391)
+
+[https://monday9pm.com/%EC%95%8C%EA%B3%A0-%EB%B3%B4%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EB%85%80%EC%84%9D-cors-cross-origin-resource-sharing-ccf873ffa77e](https://monday9pm.com/%EC%95%8C%EA%B3%A0-%EB%B3%B4%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EB%85%80%EC%84%9D-cors-cross-origin-resource-sharing-ccf873ffa77e)
