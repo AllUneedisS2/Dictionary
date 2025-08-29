@@ -39,7 +39,11 @@
         <img src="images/SpringSecurity.png" width="300" />
       </a>
     </td>
-    <td>...</td>
+    <td>
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Redis.md">
+        <img src="images/Redis.png" width="300" />
+      </a>
+    </td>
     <td>...</td>
     <td>...</td>
   </tr>
