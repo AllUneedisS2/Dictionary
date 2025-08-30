@@ -13,3 +13,5 @@
 [자바의 직렬화(Serialization)란?](https://jiwondev.tistory.com/134)
 
 [JVM(자바가상머신)과 JRE, JDK](https://jiwondev.tistory.com/69)
+
+[[Servlet] 서블릿 기본 개념과 요청/응답 처리](https://amy-it.tistory.com/85)
