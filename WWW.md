@@ -17,3 +17,5 @@
 [알고 보면 꽤 좋은 녀석 CORS (Cross-Origin Resource Sharing)](https://monday9pm.com/%EC%95%8C%EA%B3%A0-%EB%B3%B4%EB%A9%B4-%EC%A2%8B%EC%9D%80-%EB%85%80%EC%84%9D-cors-cross-origin-resource-sharing-ccf873ffa77e)
 
 [[운영체제] Race Condition과 예방할 방법(세마포어, 뮤텍스)](https://iredays.tistory.com/125)
+
+[👩‍💻 완벽히 이해하는 동기/비동기 & 블로킹/논블로킹](https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-%EB%8F%99%EA%B8%B0%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%B8%94%EB%A1%9C%ED%82%B9%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC#%EB%8F%99%EA%B8%B0/%EB%B9%84%EB%8F%99%EA%B8%B0__%EB%B8%94%EB%A1%9C%ED%82%B9/%EB%85%BC%EB%B8%94%EB%A1%9D%ED%82%B9)
