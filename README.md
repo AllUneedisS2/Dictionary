@@ -49,10 +49,18 @@
         <img src="images/SpringWebflux.png" width="300" />
       </a>
     </td>
-    <td>...</td>
+    <td>
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/DockerK8S.md">
+        <img src="images/DocekrK8S.png" width="300" />
+      </a>
+    </td>
   </tr>
   <tr>
-    <td>...</td>
+    <td>
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Elastic.md">
+        <img src="images/Elastic.png" width="300" />
+      </a>
+    </td>
     <td>...</td>
     <td>...</td>
     <td>...</td>
