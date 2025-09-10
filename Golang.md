@@ -9,3 +9,5 @@
 [[Go] 한 번에 정리하는 Golang 기본 개념 - 3편](https://jh-labs.tistory.com/577)
 
 [[Go] 고루틴(goroutine)과 채널(channel)](https://jh-labs.tistory.com/716)
+
+[[Golang] 고루틴](https://deku.posstree.com/ko/golang/goroutine/)
