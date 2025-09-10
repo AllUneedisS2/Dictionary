@@ -7,3 +7,5 @@
 [[Spring] 마이크로미터(Micrometer)와 메트릭(Matric) 확인](https://hstory0208.tistory.com/entry/Spring-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EB%AF%B8%ED%84%B0Micrometer%EC%99%80-%EB%A9%94%ED%8A%B8%EB%A6%ADMatric-%ED%99%95%EC%9D%B8)
 
 [FeignClient vs WebClient vs RestTemplate](https://junuuu.tistory.com/770)
+
+[RestClient 알아보기 (RestTemplate이 Deprecated 된다고요?)](https://poalim.tistory.com/59#google_vignette)
