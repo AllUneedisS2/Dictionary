@@ -62,7 +62,11 @@
         <img src="images/Elastic.png" width="300" />
       </a>
     </td>
-    <td>...</td>
+    <td>
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Database.md">
+        <img src="images/Database.png" width="300" />
+      </a>
+    </td>
     <td>...</td>
     <td>...</td>
     <td>...</td>
