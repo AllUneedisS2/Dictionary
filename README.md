@@ -52,8 +52,8 @@
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/DockerK8S.md">
-        <img src="images/DockerK8S.png" width="300" />
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/DockerK8s.md">
+        <img src="images/DockerK8s.png" width="300" />
       </a>
     </td>
   </tr>
