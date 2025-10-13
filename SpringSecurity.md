@@ -1,3 +1,5 @@
+[Spring security + jwt 동작방식 이해하기](https://te-ho.tistory.com/74#google_vignette)
+
 [[OAuth2] OAuth2 개론 - 개요와 Authorization Code Flow](https://sabarada.tistory.com/248)
 
 [[Spring boot] OAuth2: Authorization-Server (인증 서버 구축)(1)](https://lucas-owner.tistory.com/79)
