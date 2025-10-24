@@ -21,3 +21,5 @@
 [👩‍💻 완벽히 이해하는 동기/비동기 & 블로킹/논블로킹](https://inpa.tistory.com/entry/%F0%9F%91%A9%E2%80%8D%F0%9F%92%BB-%EB%8F%99%EA%B8%B0%EB%B9%84%EB%8F%99%EA%B8%B0-%EB%B8%94%EB%A1%9C%ED%82%B9%EB%85%BC%EB%B8%94%EB%A1%9C%ED%82%B9-%EA%B0%9C%EB%85%90-%EC%A0%95%EB%A6%AC#%EB%8F%99%EA%B8%B0/%EB%B9%84%EB%8F%99%EA%B8%B0__%EB%B8%94%EB%A1%9C%ED%82%B9/%EB%85%BC%EB%B8%94%EB%A1%9D%ED%82%B9)
 
 [웹 서버 Apache보다 Nginx를 사용하는 이유](https://velog.io/@cjyooong/apache-nginx)
+
+[[Web] HTTP와 HTTPS의 개념 및 차이점](https://mangkyu.tistory.com/98)
