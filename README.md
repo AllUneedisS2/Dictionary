@@ -78,7 +78,11 @@
         <img src="images/AWS.png" width="300" />
       </a>
     </td>
-    <td>...</td>
+    <td>
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Git.md">
+        <img src="images/Git.png" width="300" />
+      </a>
+    </td>
   </tr>
   <tr>
     <td>...</td>
