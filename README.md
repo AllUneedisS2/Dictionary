@@ -1,3 +1,5 @@
+[[Server] 펌웨어의 개념 (Feat. BIOS/UEFI)](https://smallrich.tistory.com/78)
+
 [사바라다는 차곡차곡](https://sabarada.tistory.com/)
 
 [HS_dev_log](https://innovation123.tistory.com/category/Spring?page=4)
