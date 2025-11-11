@@ -26,4 +26,6 @@
 
 [[Storage]CIFS/NFS 그리고 NAS](https://youngswooyoung.tistory.com/60#google_vignette)
 
+[CORS(교차 출처 리소스 공유)란?](https://dkswnkk.tistory.com/583)
+
 web rtc
