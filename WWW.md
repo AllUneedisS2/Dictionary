@@ -28,4 +28,6 @@
 
 [CORS(교차 출처 리소스 공유)란?](https://dkswnkk.tistory.com/583)
 
+[[Linux] - 웹 서버와 WAS, HTTP 통신(Cookie, Session, JWT, 요청과 응답)](https://twojun-space.tistory.com/102#google_vignette)
+
 web rtc
