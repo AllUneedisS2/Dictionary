@@ -34,4 +34,4 @@
 
 [문서 객체 모델(DOM)](https://docs.tosspayments.com/resources/glossary/dom)
 
-web rtc
+[gRPC와 WebRTC, 언제 무엇을 써야 할까?](https://velog.io/@yesrin/gRPC%EC%99%80-WebRTC-%EC%96%B8%EC%A0%9C-%EB%AC%B4%EC%97%87%EC%9D%84-%EC%8D%A8%EC%95%BC-%ED%95%A0%EA%B9%8C)
