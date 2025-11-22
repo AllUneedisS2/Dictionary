@@ -14,6 +14,7 @@
 
 [JVM(자바가상머신)과 JRE, JDK](https://jiwondev.tistory.com/69)
 
-[[Servlet] 서블릿 기본 개념과 요청/응답 처리](https://amy-it.tistory.com/85)
+[[JAVA] 서블릿(Servlet) 완벽 이해를 위한 정리](https://developshrimp.com/entry/JAVA-%EC%84%9C%EB%B8%94%EB%A6%BFServlet-%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%95%EB%A6%AC)
+
 
 [[Java] 자바21의 가상스레드 간단하게 이해하기](https://yoonseon.tistory.com/151)
