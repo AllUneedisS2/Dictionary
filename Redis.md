@@ -7,3 +7,5 @@
 [Jedis, Lettuce, Redisson. 레디스를 위한 세 가지 자바 클라이언트](https://hseong.tistory.com/97)
 
 [Redis에서 @RedisHash, @Id, @Indexed의 쓰임새](https://yijoon009.tistory.com/entry/Redis-RedisHash-Id-Indexed)
+
+[Lettuce와 Jedis: Redis 클라이언트의 비교](https://100100e.tistory.com/554)
