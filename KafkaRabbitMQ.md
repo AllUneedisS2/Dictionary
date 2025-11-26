@@ -8,4 +8,4 @@
 
 [[RabbitMQ] RabbitMQ와 Kafka의 차이점에 대해 알아보기, 선택 가이드라인 정하기](https://magpienote.tistory.com/231)
 
-
+[Apache Kafka의 성능: append-only and zero copy](https://maybe35.tistory.com/15)
