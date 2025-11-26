@@ -1,5 +1,3 @@
-[Spring Cloud란? 기업들이 Spring Cloud를 사용하는 이유](https://www.elancer.co.kr/blog/detail/248)
-
 [Spring Cloud 란 무엇인가요? MSA 필수 기술 구현](https://www.cncf.co.kr/blog/spring-cloud-intro/)
 
 [Spring Cloud Stream 개요 및 활용 방법](https://velog.io/@captain-yun/Spring-Cloud-Stream-%EA%B0%9C%EC%9A%94-%EB%B0%8F-%ED%99%9C%EC%9A%A9-%EB%B0%A9%EB%B2%95)
