@@ -6,10 +6,6 @@
 
 [[Spring] 마이크로미터(Micrometer)와 메트릭(Matric) 확인](https://hstory0208.tistory.com/entry/Spring-%EB%A7%88%EC%9D%B4%ED%81%AC%EB%A1%9C%EB%AF%B8%ED%84%B0Micrometer%EC%99%80-%EB%A9%94%ED%8A%B8%EB%A6%ADMatric-%ED%99%95%EC%9D%B8)
 
-[FeignClient vs WebClient vs RestTemplate](https://junuuu.tistory.com/770)
-
-[RestClient 알아보기 (RestTemplate이 Deprecated 된다고요?)](https://poalim.tistory.com/59#google_vignette)
-
 [스프링은 어떻게 @Bean의 싱글턴을 보장할까?](https://velog.io/@ohzzi/%EC%8A%A4%ED%94%84%EB%A7%81%EC%9D%80-%EC%96%B4%EB%96%BB%EA%B2%8C-Bean%EC%9D%98-%EC%8B%B1%EA%B8%80%ED%84%B4%EC%9D%84-%EB%B3%B4%EC%9E%A5%ED%95%A0%EA%B9%8C)
 
 [@Configuration은 어떻게 빈을 등록하고, 싱글톤으로 관리할까?](https://tecoble.techcourse.co.kr/post/2023-05-22-configuration/)
