@@ -13,3 +13,5 @@
 [[Spring] @Component와 @Configuration](https://velog.io/@albaneo0724/Spring-Component%EC%99%80-Configuration%EC%9D%98-%EC%B0%A8%EC%9D%B4)
 
 [스프링 외부 API 호출 방법 비교: RestTemplate, WebClient, FeignClient, RestClient](https://mozzi-devlog.tistory.com/60)
+
+[[Spring] AOP 용어 정리](https://dev-ljw1126.tistory.com/345)
