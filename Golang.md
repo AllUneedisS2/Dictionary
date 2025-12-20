@@ -1,3 +1,5 @@
+[Go 언어의 인기가 계속 높아지는 이유](https://www.elancer.co.kr/blog/detail/805)
+
 [[Go] Golang 이란](https://jh-labs.tistory.com/461)
 
 [GoLang 시작하기](https://wikidocs.net/book/7827)
