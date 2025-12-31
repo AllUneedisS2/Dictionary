@@ -1,4 +1,4 @@
-[가상 머신(VM) vs 도커 컨테이너 5분컷 개념 정리](https://brunch.co.kr/@wikibook/87)
+[[Docker] 하이퍼바이저 및 컨테이너 가상화와 도커 아키텍쳐](https://rebugs.tistory.com/746)
 
 argo
 
