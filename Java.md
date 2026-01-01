@@ -16,5 +16,6 @@
 
 [[JAVA] 서블릿(Servlet) 완벽 이해를 위한 정리](https://developshrimp.com/entry/JAVA-%EC%84%9C%EB%B8%94%EB%A6%BFServlet-%EC%99%84%EB%B2%BD-%EC%9D%B4%ED%95%B4%EB%A5%BC-%EC%9C%84%ED%95%9C-%EC%A0%95%EB%A6%AC)
 
-
 [[Java] 자바21의 가상스레드 간단하게 이해하기](https://yoonseon.tistory.com/151)
+
+[JAVA volatile과 Atomic 변수 · CAS](https://inkyu-yoon.github.io/docs/Language/Java/Volatile)
