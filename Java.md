@@ -19,3 +19,7 @@
 [[Java] 자바21의 가상스레드 간단하게 이해하기](https://yoonseon.tistory.com/151)
 
 [JAVA volatile과 Atomic 변수 · CAS](https://inkyu-yoon.github.io/docs/Language/Java/Volatile)
+
+[IO가 느린 이유가 뭘까? NIO는 뭘까?](https://velog.io/@maketheworldwise/IO%EA%B0%80-%EB%8A%90%EB%A6%B0-%EC%9D%B4%EC%9C%A0%EA%B0%80-%EB%AD%98%EA%B9%8C-NIO%EB%8A%94-%EB%AD%98%EA%B9%8C)
+
+[Java I/O (Input/Output)란?](https://way-be-developer.tistory.com/296)
