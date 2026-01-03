@@ -23,3 +23,5 @@
 [IO가 느린 이유가 뭘까? NIO는 뭘까?](https://velog.io/@maketheworldwise/IO%EA%B0%80-%EB%8A%90%EB%A6%B0-%EC%9D%B4%EC%9C%A0%EA%B0%80-%EB%AD%98%EA%B9%8C-NIO%EB%8A%94-%EB%AD%98%EA%B9%8C)
 
 [Java I/O (Input/Output)란?](https://way-be-developer.tistory.com/296)
+
+[☕ 자바 Try With Resource 예외 처리](https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-Try-With-Resource-%EB%AC%B8%EB%B2%95)
