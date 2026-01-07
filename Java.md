@@ -25,3 +25,5 @@
 [Java I/O (Input/Output)란?](https://way-be-developer.tistory.com/296)
 
 [☕ 자바 Try With Resource 예외 처리](https://inpa.tistory.com/entry/JAVA-%E2%98%95-%EC%98%88%EC%99%B8-%EC%B2%98%EB%A6%AC-Try-With-Resource-%EB%AC%B8%EB%B2%95)
+
+[Java 제네릭(Generic) & 와일드카드 완벽 이해하기](https://yeo-computerclass.tistory.com/570)
