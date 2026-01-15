@@ -13,3 +13,5 @@
 [[Go] 고루틴(goroutine)과 채널(channel)](https://jh-labs.tistory.com/716)
 
 [[Golang] 고루틴](https://deku.posstree.com/ko/golang/goroutine/)
+
+[Golang의 struct(구조체)와 receiver(리시버) 메서드: 객체 지향적 설계의 새로운 접근] (https://blog.slooowin.com/9)
