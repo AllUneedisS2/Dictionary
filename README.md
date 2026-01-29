@@ -9,88 +9,88 @@
 <table>
   <tr>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Golang.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/Golang.md">
         <img src="images/Golang.jpeg" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/SpringCloud.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/SpringCloud.md">
         <img src="images/SpringCloud.png" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Java.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/Java.md">
         <img src="images/Java.png" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Spring.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/Spring.md">
         <img src="images/Spring.png" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Azure.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/Azure.md">
         <img src="images/Azure.png" width="300" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/WWW.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/WWW.md">
         <img src="images/WWW.jpeg" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/SpringSecurity.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/SpringSecurity.md">
         <img src="images/SpringSecurity.png" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Redis.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/Redis.md">
         <img src="images/Redis.png" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/SpringWebflux.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/SpringWebflux.md">
         <img src="images/SpringWebflux.png" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/CNCF.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/CNCF.md">
         <img src="images/CNCF.png" width="300" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Elastic.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/Elastic.md">
         <img src="images/Elastic.png" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Database.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/Database.md">
         <img src="images/Database.png" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/KafkaRabbitMQ.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/KafkaRabbitMQ.md">
         <img src="images/KafkaRabbitMQ.png" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/AWS.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/AWS.md">
         <img src="images/AWS.png" width="300" />
       </a>
     </td>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Git.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/Git.md">
         <img src="images/Git.png" width="300" />
       </a>
     </td>
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Kubernetes.md">
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/files/Kubernetes.md">
         <img src="images/Kubernetes.png" width="300" />
       </a>
     </td>
