@@ -13,3 +13,5 @@
 [Kubernetes, etcd란](https://velog.io/@pwcasdf/Kubernetes-etcd%EB%9E%80)
 
 [[kubernetes] 쿠버네티스(kubernetes) 레플리카셋(replicaset)이란](https://frozenpond.tistory.com/103)
+
+[ReplicaSet과 Deployment](https://velog.io/@squarebird/Kubernetes-Replica-Set%EA%B3%BC-Deployment)
