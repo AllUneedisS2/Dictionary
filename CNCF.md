@@ -11,3 +11,5 @@
 [Containerd란?](http://somaz.tistory.com/157)
 
 [Kubernetes, etcd란](https://velog.io/@pwcasdf/Kubernetes-etcd%EB%9E%80)
+
+[[kubernetes] 쿠버네티스(kubernetes) 레플리카셋(replicaset)이란](https://frozenpond.tistory.com/103)
