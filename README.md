@@ -90,8 +90,8 @@
   </tr>
   <tr>
     <td>
-      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Git.md">
-        <img src="images/Git.png" width="300" />
+      <a href="https://github.com/AllUneedisS2/Dictionary/blob/main/Kubernetes.md">
+        <img src="images/Kubernetes.png" width="300" />
       </a>
     </td>
     <td>...</td>
