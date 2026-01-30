@@ -6,7 +6,7 @@
 
 [Kubernetes, etcd란](https://velog.io/@pwcasdf/Kubernetes-etcd%EB%9E%80)
 
-[ReplicaSet과 Deployment](https://velog.io/@squarebird/Kubernetes-Replica-Set%EA%B3%BC-Deployment)
+[[k8s] 쿠버네티스 컨트롤러에 대해 알아보자](https://dgjinsu.tistory.com/69)
 
 [[Kubernetes] 쿠버네티스 서비스: Cluster IP, NodePort, Load Balancer](https://sum-mit45.tistory.com/entry/Kubernetes-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%84%9C%EB%B9%84%EC%8A%A4-Cluster-IP-NodePort-Load-Balancer#google_vignette)
 
