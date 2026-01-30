@@ -9,3 +9,5 @@
 [ReplicaSet과 Deployment](https://velog.io/@squarebird/Kubernetes-Replica-Set%EA%B3%BC-Deployment)
 
 [[Kubernetes] 쿠버네티스 서비스: Cluster IP, NodePort, Load Balancer](https://sum-mit45.tistory.com/entry/Kubernetes-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-%EC%84%9C%EB%B9%84%EC%8A%A4-Cluster-IP-NodePort-Load-Balancer#google_vignette)
+
+[[Kubernetes] kube-scheduler 에 대해 알아보기](https://westlife0615.tistory.com/1183)
