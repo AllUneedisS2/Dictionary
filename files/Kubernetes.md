@@ -12,4 +12,6 @@
 
 [[Kubernetes] kube-scheduler 에 대해 알아보기](https://westlife0615.tistory.com/1183)
 
-[[k8s] Kubernetes taint & toleration & nodeAffinity 공부](https://jaeyung1001.tistory.com/entry/k8s-Kubernetes-taint-toleration-nodeAffinity-%EA%B3%B5%EB%B6%80)
+[[k8s] Taint and Toleration 개념](https://successisnotfaraway.tistory.com/96)
+
+[(TIL)Kubernetes의 Node Selector와 Node Affinity](https://simple-coding-place.tistory.com/89)
