@@ -10,6 +10,8 @@
 
 [[Kubernetes] 쿠버네티스 ReplicaSet, Deployment 리소스 차이 이해하기](https://kylo8.tistory.com/entry/Kubernetes-%EC%BF%A0%EB%B2%84%EB%84%A4%ED%8B%B0%EC%8A%A4-ReplicaSet-Deployment-%EB%A6%AC%EC%86%8C%EC%8A%A4-%EC%B0%A8%EC%9D%B4-%EC%9D%B4%ED%95%B4%ED%95%98%EA%B8%B0)
 
+[[쿠버네티스] 데몬셋이란?](https://nearhome.tistory.com/91)
+
 [[k8s] Scheduling, Binding 개념](https://successisnotfaraway.tistory.com/94)
 
 [[k8s] Taint and Toleration 개념](https://successisnotfaraway.tistory.com/96)
