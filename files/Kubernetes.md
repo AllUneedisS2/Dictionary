@@ -12,6 +12,8 @@
 
 [[쿠버네티스] 데몬셋이란?](https://nearhome.tistory.com/91)
 
+[[k8s] Static Pod](https://blackholecoding.tistory.com/entry/k8s-Static-Pod)
+
 [[k8s] Scheduling, Binding 개념](https://successisnotfaraway.tistory.com/94)
 
 [[k8s] Taint and Toleration 개념](https://successisnotfaraway.tistory.com/96)
