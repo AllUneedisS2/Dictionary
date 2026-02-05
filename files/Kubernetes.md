@@ -21,3 +21,5 @@
 [(TIL)Kubernetes의 Node Selector와 Node Affinity](https://simple-coding-place.tistory.com/89)
 
 [Kubernetes Admission Controller](https://simple-coding-place.tistory.com/96)
+
+[[Kubernetes Best Practice] 3. 모니터링과 로깅](https://sphong0417.tistory.com/30)
