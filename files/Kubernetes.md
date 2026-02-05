@@ -25,3 +25,5 @@
 [[Kubernetes Best Practice] 3. 모니터링과 로깅](https://sphong0417.tistory.com/30)
 
 [Kubernetes 배포 전략에 대한 이해](https://medium.com/@hyukjuner/kubernetes-%EB%B0%B0%ED%8F%AC-%EC%A0%84%EB%9E%B5%EC%97%90-%EB%8C%80%ED%95%9C-%EC%9D%B4%ED%95%B4-06bbb29e022c)
+
+[쿠버네티스 ConfigMap과 Secret 완벽 정리](https://givedev.tistory.com/89)
