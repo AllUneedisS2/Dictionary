@@ -19,3 +19,5 @@
 [[k8s] Taint and Toleration 개념](https://successisnotfaraway.tistory.com/96)
 
 [(TIL)Kubernetes의 Node Selector와 Node Affinity](https://simple-coding-place.tistory.com/89)
+
+[Kubernetes Admission Controller](https://simple-coding-place.tistory.com/96)
