@@ -35,3 +35,5 @@
 [[Kubetnetes] 셀프 힐링 (self-healing) 알아 보기](https://velog.io/@suunn001/Kubetnetes-%EC%85%80%ED%94%84-%ED%9E%90%EB%A7%81-self-healing-%EC%95%8C%EC%95%84-%EB%B3%B4%EA%B8%B0)
 
 [[EKS] HPA(Horizontal Pod Autoscaler)와 VPA(Vertical Pod Autoscaler) + 예제](https://velog.io/@rockwellvinca/EKS-HPAHorizontal-Pod-Autoscaler%EC%99%80-VPAVertical-Pod-Autoscaler)
+
+[[Kubernetes] k8s kubeadm 클러스터 업그레이드(cluster upgrade)](https://nayoungs.tistory.com/entry/Kubernetes-k8s-kubeadm-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9Ccluster-upgrade)
