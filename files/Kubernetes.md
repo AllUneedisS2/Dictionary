@@ -32,4 +32,6 @@
 
 [[Kubetnetes] 셀프 힐링 (self-healing) 알아 보기](https://velog.io/@suunn001/Kubetnetes-%EC%85%80%ED%94%84-%ED%9E%90%EB%A7%81-self-healing-%EC%95%8C%EC%95%84-%EB%B3%B4%EA%B8%B0)
 
+[[EKS] HPA(Horizontal Pod Autoscaler)와 VPA(Vertical Pod Autoscaler) + 예제](https://velog.io/@rockwellvinca/EKS-HPAHorizontal-Pod-Autoscaler%EC%99%80-VPAVertical-Pod-Autoscaler)
+
 [Init Container : 메인이 실행되기 전에 반드시 완료해야 하는 컨테이너](https://velog.io/@captain-yun/Init-Container-%EB%A9%94%EC%9D%B8%EC%9D%B4-%EC%8B%A4%ED%96%89%EB%90%98%EA%B8%B0-%EC%A0%84%EC%97%90-%EB%B0%98%EB%93%9C%EC%8B%9C-%EC%99%84%EB%A3%8C%ED%95%B4%EC%95%BC-%ED%95%98%EB%8A%94-%EC%BB%A8%ED%85%8C%EC%9D%B4%EB%84%88)
