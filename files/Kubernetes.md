@@ -43,3 +43,5 @@
 [.kubeconfig가 뭐고, 없으면 무슨 일이 일어날까?](https://www.kyumin.blog/15)
 
 [[K8S] 쿠버네티스 RBAC 관련 리소스들 정리 (Role, RoleBinding, ClusterRole, ClusterRoleBinding, Service Account)](https://velog.io/@newnew_daddy/K8S03)
+
+[(K8S) 네트워크 정책(Network Policy) 기초 개념](https://zerojsh00.github.io/posts/Network-Policy/)
