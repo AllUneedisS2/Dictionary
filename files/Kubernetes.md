@@ -39,3 +39,5 @@
 [[Kubernetes] k8s kubeadm 클러스터 업그레이드(cluster upgrade)](https://nayoungs.tistory.com/entry/Kubernetes-k8s-kubeadm-%ED%81%B4%EB%9F%AC%EC%8A%A4%ED%84%B0-%EC%97%85%EA%B7%B8%EB%A0%88%EC%9D%B4%EB%93%9Ccluster-upgrade)
 
 [CKA 30제 01: ETCD Backup & Restore](https://velog.io/@jydecn4869/CKA-30%EC%A0%9C-01-ETCD-Backup-Restore)
+
+[.kubeconfig가 뭐고, 없으면 무슨 일이 일어날까?](https://www.kyumin.blog/15)
