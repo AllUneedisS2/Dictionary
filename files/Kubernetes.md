@@ -41,3 +41,5 @@
 [CKA 30제 01: ETCD Backup & Restore](https://velog.io/@jydecn4869/CKA-30%EC%A0%9C-01-ETCD-Backup-Restore)
 
 [.kubeconfig가 뭐고, 없으면 무슨 일이 일어날까?](https://www.kyumin.blog/15)
+
+[[K8S] 쿠버네티스 RBAC 관련 리소스들 정리 (Role, RoleBinding, ClusterRole, ClusterRoleBinding, Service Account)](https://velog.io/@newnew_daddy/K8S03)
