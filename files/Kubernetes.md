@@ -47,3 +47,5 @@
 [(K8S) 네트워크 정책(Network Policy) 기초 개념](https://zerojsh00.github.io/posts/Network-Policy/)
 
 [Kubernetes Operator 및 Custom Resource Dfinition(CRDs) 이해하기](https://somaz.tistory.com/301)
+
+[[K8S] Persistent Volume, Persistent Volume Claim, StorageClass란?](https://wooono.tistory.com/761)
