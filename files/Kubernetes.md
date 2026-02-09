@@ -49,3 +49,5 @@
 [[K8S] Persistent Volume, Persistent Volume Claim, StorageClass란?](https://wooono.tistory.com/761)
 
 [[CKA] 쿠버네티스 네트워킹](https://unggu.dev/k8s/cka/k8s-networking/)
+
+[[kubernetes] 애플리케이션 동적 배포(kustomize, helm)](https://velog.io/@rockwellvinca/%EC%95%A0%ED%94%8C%EB%A6%AC%EC%BC%80%EC%9D%B4%EC%85%98-%EB%8F%99%EC%A0%81-%EB%B0%B0%ED%8F%ACkustomize-helm)
