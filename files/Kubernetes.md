@@ -47,3 +47,5 @@
 [Kubernetes Operator 및 Custom Resource Dfinition(CRDs) 이해하기](https://somaz.tistory.com/301)
 
 [[K8S] Persistent Volume, Persistent Volume Claim, StorageClass란?](https://wooono.tistory.com/761)
+
+[[CKA] 쿠버네티스 네트워킹](https://unggu.dev/k8s/cka/k8s-networking/)
