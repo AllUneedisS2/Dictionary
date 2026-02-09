@@ -1,5 +1,3 @@
-[Kubernetes Calico CNI 란?](https://everenew.tistory.com/388)
-
 [Containerd란?](http://somaz.tistory.com/157)
 
 [Kubernetes, etcd란](https://velog.io/@pwcasdf/Kubernetes-etcd%EB%9E%80)
